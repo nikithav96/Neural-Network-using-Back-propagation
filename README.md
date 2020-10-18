@@ -1,2 +1,2 @@
 # Neural-Network-using-Back-propagation
-Implementation of Neural Network using Back propagation on Wheat seeds dataset.
+Implementation of Neural Network with Back propagation on Wheat seeds dataset.
